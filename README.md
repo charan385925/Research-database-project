@@ -1,3 +1,9 @@
+![Screenshot 2025-06-13 161204](https://github.com/user-attachments/assets/fe85de31-e7ff-4577-be2b-f43142357abd)
+
+
+
+
+
 # Research-database-project
 # 🗂️ Research Projects Database
 
@@ -50,6 +56,10 @@ You can use this schema in any SQL-compatible database system. Simply create the
 
 - University or institutional research management
 - Budget tracking for funded projects
+
+
+![ChatGPT Image Jun 13, 2025, 03_50_51 PM 1](https://github.com/user-attachments/assets/0560f0f8-98df-4bd7-8c34-9fd6ec11e459)
+
 - Employee workload and assignment tracking
 
 ---
