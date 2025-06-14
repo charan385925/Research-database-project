@@ -1,4 +1,5 @@
-![ChatGPT Image Jun 13, 2025, 12_22_33 PM 2](https://github.com/user-attachments/assets/d9cce518-57a8-4249-9578-9311186e7746)
+![image](https://github.com/user-attachments/assets/73753994-2547-4b30-93b1-91b0c3331cf6)
+
 
 
 # 📚 Online Book Publishing and Sales Platform
