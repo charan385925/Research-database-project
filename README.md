@@ -59,7 +59,8 @@ You can use this schema in any SQL-compatible database system. Simply create the
 - Budget tracking for funded projects
 
 
-![ChatGPT Image Jun 13, 2025, 03_50_51 PM 1](https://github.com/user-attachments/assets/0560f0f8-98df-4bd7-8c34-9fd6ec11e459)
+![project1 img](https://github.com/user-attachments/assets/17bfdf36-7416-40ff-b425-c6c893691b0f)
+
 
 - Employee workload and assignment tracking
 
