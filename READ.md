@@ -1,6 +1,7 @@
 
 
-![ChatGPT Image Jun 13, 2025, 03_54_15 PM](https://github.com/user-attachments/assets/3619227c-d44b-4308-8329-6b6ac2b80b0c)
+![image](https://github.com/user-attachments/assets/5ed9db81-d0ee-4e44-908d-ed6571e76b6a)
+
 
 # 🎓 University Management Database Project
 
